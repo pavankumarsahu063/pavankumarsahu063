@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn](https://www.linkedin.com/in/pavan-kumar-sahu39730a256)
 
-- 💬 Ask me about **Java, Spring Boot, Python, MySQL, and Frontend Development**
+- 💬 Ask me about **Java, Spring Boot,Spring Security,Spring Data JPA,Spring Web Mvc Python, MySQL, and Frontend Development :- HTML,CSS ,JS And REACT JS**
 
 - 📫 How to reach me: **pavankumar987321@gmail.com**
 
