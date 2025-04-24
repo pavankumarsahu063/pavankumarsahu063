@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learning **JavaScript, React.js, and Backend Development with Spring Boot**
+- 🌱 I’m Work with **JavaScript, React.js, and Backend Development with Spring Boot**
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-sahu39730a256)
 - 💬 Ask me about:  
   **Java, Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Python, MySQL, HTML, CSS, JavaScript, and React.js**
